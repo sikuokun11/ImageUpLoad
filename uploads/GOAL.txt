@@ -1,0 +1,6 @@
+Goal 
+	- Giúp người dùng quản lý chi tiêu hợp lý
+Objectives:
+	+ Cập nhật thông tin nhanh chóng giá cả của thị trường, giá phòng khách sạn, nhà hàng và một số địa điểm khác
+	+ Các quán ăn và nhà hàng không rõ nguồn gốc, giá cả không hợp lý sẽ được ứng dụng loại bỏ trong quá trình kiểm tra thực tế cũng như đánh giá của các du khách trước đó.
+	+ Hệ thống sẽ gợi ý về những địa điểm phù hợp với chi tiêu đề ra.
